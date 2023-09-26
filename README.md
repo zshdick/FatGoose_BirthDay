@@ -4,6 +4,6 @@
 <p>官网: <a href="http://airtest.netease.com" title="Airtest IDE">
 链接</a></p>
 <p>搭载雷电安卓模拟器比较稳定，分辨率参数需要设置为：<strong>1600*960</strong></p>
-
+<p>目前看广告是按照安卓APP配置的，<strong>需要小程序的，把函数adGo2改成adGo</strong></p>
 <h3>欢迎大家查漏补缺，积极上传修改</h3> 
 <p>主文件用Python编写</p>
